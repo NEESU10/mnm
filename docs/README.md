@@ -24,4 +24,5 @@ Contact Information
 -------------------
 
 [Educational Service Unit 10](http://www.esu10.org)
+
 Jason Everett
