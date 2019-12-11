@@ -4,6 +4,7 @@ Our vision for the Mid-Nebraska Makerspace Lab (MNM) is to expose students in gr
 
 To begin MNM this year (2020), 11 school districts in 6 counties which enroll 10,705 students in grades 6-12 have already agreed to participate in MNM’s training and projects.  Schools include: Burwell, Centura, Cozad, Gibbon, Grand Island, Kearney, Lexington, Northwest, Pleasanton, Riverside, and Sumner- Eddyville -Miller.  Other central Nebraska school districts will join in years 2 and 3.
 
+
 Lab Sponsorships
 ----------------
 
@@ -19,3 +20,8 @@ Lab Sponsorships
 * Lab 10 - Welding Simulator Lab - Orthman
 
 
+Contact Information  
+-------------------
+
+[Educational Service Unit 10](http://www.esu10.org)
+Jason Everett
